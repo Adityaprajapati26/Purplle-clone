@@ -1,6 +1,6 @@
 # Clone of purplle
 
-This was our project for Unit-4 Construct week at Masai Shcool.
+This was our project for Unit-3 Construct week at Masai Shcool.
 Our mian objective was to complete all main functionality of this e-commerce website , such as sing up to till to the byuing of a product.
 We have completed this project in 5 days.
 
